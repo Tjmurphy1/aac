@@ -1,0 +1,61 @@
+.active {
+    border-bottom: 3px #61dafb solid;
+    color: #61dafb;
+}
+
+body {
+    background:white;
+    background-size: cover;
+}
+
+nav .brand-logo {
+    color: #61dafb;
+}
+
+nav ul a {
+    color: white;
+}
+
+.contain {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    padding: 10px 10px 10px 10px;
+}
+
+.nav-wrapper {
+    background-color: #20232a;
+}
+
+p {
+    text-align: left;
+}
+
+#logo {
+    height: 26px;
+    width: 26px;
+}
+
+.contain {
+    float: left;
+    margin-left: 5%;
+    height: 90vh;
+    width: 65%;
+}
+.sidebar {
+    padding: 45px 25px 0 25px;
+    float: right;
+    border-left: 1px #f7f7f7 solid;
+    width: 25%;
+    height: 90vh;
+    background-color: #f7f7f7;
+}
+
+.sidebar h6 {
+    color:  #6d6d6d;
+    text-align: left;
+}
+.title{
+    text-align: left;
+}
