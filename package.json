@@ -1,8 +1,8 @@
 {
-  "name": "ninja",
+  "name": "aac",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tjmurphy1.github.io/aac",
+  "homepage": "https://tjmurphy1.github.io/aac",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",

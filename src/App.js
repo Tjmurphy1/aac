@@ -6,7 +6,7 @@ import Compression from "./Components /Compression";
 import Similar from "./Components /Similar";
 import SideBar from "./Components /SideBar";
 import { BrowserRouter, Route } from 'react-router-dom';
-import './App.css ';
+import './App.css';
 
 
 
