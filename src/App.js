@@ -5,6 +5,7 @@ import History from "./Components /History";
 import Compression from "./Components /Compression";
 import Similar from "./Components /Similar";
 import SideBar from "./Components /SideBar";
+import Footer from "./Components /Footer"
 import { BrowserRouter, Route } from 'react-router-dom';
 import './App.css';
 
@@ -21,6 +22,7 @@ class App extends Component {
             <Route path="/compression" component={Compression} />
             <Route path="/similar" component={Similar} />
             <SideBar />
+            <Footer />
           </div>
         </BrowserRouter>
     );

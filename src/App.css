@@ -6,6 +6,7 @@
 body {
     background:white;
     background-size: cover;
+   
 }
 
 nav .brand-logo {
@@ -59,3 +60,23 @@ p {
 .title{
     text-align: left;
 }
+.ulS li {
+    margin: 10px 0px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    background-color: #20232a;
+    margin-bottom: 0;
+}
+
+.foot{
+    text-align: center;
+    margin: 0;
+    color:white;
+}
+
